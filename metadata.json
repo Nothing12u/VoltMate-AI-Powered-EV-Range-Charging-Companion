@@ -1,0 +1,6 @@
+{
+  "name": "VoltMate",
+  "description": "AI-powered EV companion for range prediction, smart charging routes, peer-to-peer VoltShare booking, and Eco-Coach driving optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

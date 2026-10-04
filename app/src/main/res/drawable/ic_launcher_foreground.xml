@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- EV Plug Base / Ring -->
+    <path
+        android:fillColor="#39D98A"
+        android:pathData="M54,28 C41,28 32,37 32,50 C32,58 36,65 42,69 L42,76 C42,78 44,80 46,80 L62,80 C64,80 66,78 66,76 L66,69 C72,65 76,58 76,50 C76,37 67,28 54,28 Z" />
+    <!-- Dynamic Lightning Bolt in Electric Lime -->
+    <path
+        android:fillColor="#C6F432"
+        android:pathData="M56,23 L40,51 L52,51 L46,85 L68,47 L54,47 Z" />
+</vector>
